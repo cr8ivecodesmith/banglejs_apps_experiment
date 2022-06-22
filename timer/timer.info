@@ -1,0 +1,6 @@
+{
+  "id":"timer",
+  "name":"My Timer",
+  "src":"timer.app.js",
+  "icon":"timer.png"
+}

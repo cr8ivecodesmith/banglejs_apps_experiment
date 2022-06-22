@@ -1,0 +1,9 @@
+*.py[cod]
+__pycache__
+*~
+*.tmp
+*.swp
+*.log
+
+.DS_Storage
+.ropeproject
